@@ -1,0 +1,99 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    
+}
+.navigation{
+    position: relative;
+    display: flex;
+    background-color: black;
+    margin-top: 20px;
+    border-radius: 30px;
+    height: 50px;
+    width: 80%;
+    margin-left: 10%;
+}
+h1{
+    justify-items: center;
+    align-items: center;
+    width: 19%;
+    height: 30px;
+    display: flex;
+    color: white;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+li,ul{
+    display: flex;
+    height: 20px;
+}
+ul{
+    
+  width: 23%;
+  margin-top: 15px;
+  margin-left: 53%;
+}
+li{
+    font-size: 18px;
+    background-color: black;
+    margin-left: 10px;
+    display: inline;
+    color:gray;
+    gap:1px;
+}
+li:hover{
+    color: whitesmoke;
+}
+.head{
+    margin-top:5%;
+    margin-left: 35%;
+    font-family: 'Harry Potter', sans-serif;
+    font-size: 80px;
+    height: 80px;
+    width: 30%;
+
+}
+p{
+    width: 40%;
+    margin-left: 30%;
+    margin-top: 15px;
+}
+img{
+
+    width: 20rem;
+    margin-top:1rem;
+    margin-left: 40%;
+
+}
+.reg{
+    border-radius: 10px;
+   width: 20rem;
+   height: 6rem;
+   margin-left: 40%;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);   
+   }
+
+input{
+    margin-left: 40px;
+}
+.btn{
+    background-color: bisque;
+    width: 8rem;
+    height: 5rem;
+    margin-left: 46%;
+    margin-top: 10px;
+}
+hr{
+    margin-top: 2rem;
+}
+.h1{
+    font-size: xx-large;
+    margin-left: 20rem;
+}
+#colorButton{
+    text-align: center;
+    justify-content: center;
+    margin-left: 45%;
+    width: 10rem;
+    height: 5rem;
+}
